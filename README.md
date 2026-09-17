@@ -1,100 +1,166 @@
-#Hi, I'm Syed Hasifa 👋
+Hi, I'm Syed Hasifa 👋
 CSE Graduate | Python | Data Analytics | Web Development | AI/ML
-I'm a Computer Science and Engineering graduate interested in software development, data analytics, and AI/ML. I enjoy building practical projects and continuously improving my technical and problem-solving skills.
+
+I'm a Computer Science and Engineering graduate interested in software development, data analytics, web development, and AI/ML. I enjoy building practical projects, solving problems, and continuously improving my technical skills.
 
 🎓 B.Tech in Computer Science & Engineering — CGPA: 8.0
+
 💻 Interested in Python, Data Analytics, Web Development & AI/ML
+
 🌱 Currently strengthening my skills in Python, SQL, Excel, Pandas, NumPy, Matplotlib & Scikit-learn
-🚀 Project: HarvestHub – AI-driven platform for crop recommendation, price prediction & farmer assistance
+
+🚀 Built HarvestHub, an AI-driven agricultural platform
+
 📍 India
+
 🛠️ Technical Skills
-Programming
-Python Java
+💻 Programming
 
-Web Development
-HTML5 CSS3 JavaScript
 
-Data & AI/ML
-Pandas NumPy Matplotlib Scikit Learn
 
-Database & Tools
-SQL Git GitHub VS Code
+
+🌐 Web Development
+
+
+
+
+
+📊 Data & AI/ML
+
+
+
+
+
+
+🗄️ Database & Tools
+
+
+
+
+
 
 🚀 Featured Projects
 🌾 HarvestHub
-AI-driven platform for crop recommendation, price prediction and farmer assistance.
 
-Crop recommendation using Random Forest
-Agricultural price prediction using Linear Regression
-Farmer assistance for pest, disease and fertilizer guidance
-Weather information using a weather API
-Voice input/output support
-Telugu language support
-Built using Python, Flask, HTML, CSS and JavaScript
+AI-driven agricultural platform designed to assist farmers with crop recommendations, price prediction, and agricultural guidance.
+
+✨ Features
+
+🌱 Crop recommendation using Random Forest
+
+📈 Agricultural price prediction using Linear Regression
+
+🐛 Pest and disease guidance
+
+🌾 Fertilizer guidance
+
+🌦️ Weather information using a weather API
+
+🎙️ Voice input and output support
+
+🌐 Telugu language support
+
+🛠️ Technologies
+
+Python Flask HTML CSS JavaScript Pandas NumPy Scikit-learn
+
 🔗 View Project
 
 📚 BookNest
+
 Online book ordering application developed using the MERN stack.
 
-Book browsing and ordering functionality
-Frontend and backend integration
-MongoDB database
-Developed using MongoDB, Express.js, React.js and Node.js
+✨ Features
+
+📖 Browse available books
+
+🛒 Book ordering functionality
+
+🔄 Frontend and backend integration
+
+🗄️ MongoDB database
+
+⚛️ React.js frontend
+
+🟢 Node.js and Express.js backend
+
+🛠️ Technologies
+
+MongoDB Express.js React.js Node.js
+
 🔗 View Project
 
 📝 ResolveNow
-Online platform for submitting and managing complaints/issues.
 
-Complaint submission and tracking
-Organized issue-management workflow
-Team-based project
-Developed as a web application
+Web-based platform for submitting, tracking, and managing complaints and issues.
+
+✨ Features
+
+📝 Complaint submission
+
+🔎 Complaint tracking
+
+📋 Organized issue-management workflow
+
+👥 Team-based development
+
+🌐 Web-based interface
+
+🛠️ Technologies
+
+HTML CSS JavaScript Web Development
+
 🔗 View Project
 
 🎓 Education
 Bachelor of Technology — Computer Science & Engineering
+
 Kandula Lakshmamma Memorial College of Engineering for Women
-2022 – 2026 | CGPA: 8.0
+
+📅 2022 – 2026
+📊 CGPA: 8.0
 
 Intermediate — MPC
+
 Narayana Junior College
-2022 | 85.1%
+
+📅 2022
+📊 Percentage: 85.1%
 
 SSC
+
 S.B.G.M Vani E.M School
-90%
+
+📊 Percentage: 90%
 
 📜 Certifications
-Digital Image Processing — NPTEL
-Full Stack Development with MERN — SmartBridge
-AI/ML with Python — Dexterity
-Full Stack Development with MERN Specialization — SE(A)OK
-📊 GitHub Stats
-Hasifa's GitHub Stats
 
-Top Languages
+🏆 Digital Image Processing — NPTEL
 
+🏆 Full Stack Development with MERN — SmartBridge
+
+🏆 AI/ML with Python — Dexterity
+
+🏆 Full Stack Development with MERN Specialization — SE(A)OK
+
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syedHasifa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedHasifa&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=syedHasifa&theme=tokyonight&hide_border=true" /> </div>
 📈 Contribution Activity
-GitHub Streak
-
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedHasifa&theme=tokyo-night&hide_border=true" /> </div>
+👀 Profile Views
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=syedHasifa&label=Profile%20Views&color=0e75b6&style=flat" /> </div>
 🤝 Connect With Me
-LinkedIn
+<div align="center">
 
-GitHub
+</div>
+💡 Currently Learning
+Python          ████████████████████░   90%
+SQL             ██████████████████░░░   85%
+Data Analytics  █████████████████░░░░   80%
+Web Development ████████████████░░░░░   75%
+AI / ML         ███████████████░░░░░░   70%
 
-✨ "Learning, building, and growing one project at a time." 
-
-<!--
-**syedHasifa/syedHasifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ "Learning, building, and growing one project at a time."
+<p align="center"> ⭐ Thanks for visiting my profile! </p>
